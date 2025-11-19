@@ -1,6 +1,10 @@
 ## Hi there 👋
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 
 <!--
+
 **Rhythmic-Ocean/Rhythmic-Ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
