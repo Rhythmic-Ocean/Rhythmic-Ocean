@@ -1,7 +1,5 @@
 ## Hi there 👋
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
+Hello! I'm currently freshmen college student, doing my second semester at an university in US. I really love Linux systems and Compilers and am doing a tons of self directed learning on the field with books like Crafting Interpreters and Engineering a Compiler. Also a wee bit 'web-dev curious', so trying that out with a few sessions of The Odin Project every week! I'm very confortable in C and Java, moderatly so in JavaScript(React and Node) HTML and CSSS (mostly on webdev side) and Rust (haven't used it in a while so a little... rusty). I've also been playing around with lua mostly for my nvim configuration for now. 
 
 <!--
 
