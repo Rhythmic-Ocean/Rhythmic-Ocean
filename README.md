@@ -1,6 +1,7 @@
 ## Hi there 👋
-Hello! I'm currently freshmen college student, doing my second semester at an university in US. I really love Linux systems and Compilers and am doing a tons of self directed learning on the field with books like Crafting Interpreters and Engineering a Compiler. Also a wee bit 'web-dev curious', so trying that out with a few sessions of The Odin Project every week! I'm very confortable in C and Java, moderatly so in JavaScript(React and Node) HTML and CSSS (mostly on webdev side) and Rust (haven't used it in a while so a little... rusty). I've also been playing around with lua mostly for my nvim configuration for now. 
+Hello! I’m a freshman in my second semester at a U.S. university. I’m really into Linux systems and compilers, and I’ve been doing a lot of self-directed learning with books like Crafting Interpreters and Engineering a Compiler. I’m also a little “web-dev curious,” so I poke at The Odin Project a few times a week.
 
+I’m very comfortable with C and Java, moderately so with JavaScript (React + Node), HTML, and CSS on the web-dev side. I also know Rust (though I haven’t used it in a bit, so I’m a little… rusty). Lately I’ve been playing around with Lua too—mostly for my Neovim config.
 <!--
 
 **Rhythmic-Ocean/Rhythmic-Ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
