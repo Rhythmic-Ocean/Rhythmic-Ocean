@@ -2,7 +2,7 @@
 Sophomore. Semester 3. 
 Currently working through:
 * **Modern C++** (via learncpp.com)
-* **CS:APP** (Computer Systems: A Programmer's Perspective)
+* **CS:APP** (Computer Systems: A Programmer's Perspective with CMU Labs)
 
 Progress in respective repos with corresponding names
 
