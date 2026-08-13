@@ -1,10 +1,8 @@
 
-Sophomore. Semester 3. 
+Sophomore. Semester 4. 
 Currently working through:
-* **Modern C++** (via learncpp.com)
-* **CS:APP** (Computer Systems: A Programmer's Perspective with CMU Labs)
-
-Progress in respective repos with corresponding names
+* **DSA in C++** (via neetcode and the book Data Structure and Algo Analysis in C++ by Weiss)
+* **Browser project in C++** (referencing via browser.engineering)
 
 <!--
 
